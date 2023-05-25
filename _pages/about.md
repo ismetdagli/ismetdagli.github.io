@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Ismet Dagli"
+excerpt: "Ismet Dagli's personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ Please refer to my <a href="https://ismetdagli.github.io/files/CV_IsmetDagli.pdf
 Selected News
 =====
 
-* <span style="color:gray">(July'23)</span> <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank"> Our work</a> is accepted to FRAME'23. The title of the work is "Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems".
+* <span style="color:gray">(May'23)</span> <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank"> Our work</a> is accepted to FRAME'23. The title of the work is "Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems".
 * <span style="color:gray">(Feb'23)</span> I've accepted to <a href="https://research.google/outreach/explore-csr/" target="_blank"> Google ExploreCSR program </a> as a mentor. I've been mentored two great students, Jason Lee and Cesar Lopez Hernandez. 
 * <span style="color:gray">(Nov'22)</span> I've won the third place in <a href="https://src.acm.org/winners/2023" target="_blank">MICRO'22 SRC</a>. The title of the work is "HaX-CoNN: Heterogeneity-aware Execution of Concurrent Deep Neural Networks".
 * <span style="color:gray">(July'22)</span> <a href="https://ismetdagli.github.io/files/dac22.pdf" target="_blank"> Our work </a> is accepted to DAC 2022. The title of the work is "AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs".
