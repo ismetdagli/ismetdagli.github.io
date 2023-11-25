@@ -16,8 +16,8 @@ Please refer to my <a href="https://ismetdagli.github.io/files/CV_IsmetDagli.pdf
 
 Selected News
 =====
-* <span style="color:gray">(May'23)</span> <a href="https://arxiv.org/pdf/2308.05869.pdf" target="_blank"> Our work</a> is accepted to PPoPP'24. The title of the work is "Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips".
-* <span style="color:gray">(May'23)Our work is accepted to 2024 SME Annual Conference & Expo. The title of the work is "Enhancing Safety Using Energy-Efficient Machine Learning Algorithms Through Prediction of Rock Type and Cutter Wear". This work is done through collaboration with Mining Engineering at Mines.
+* <span style="color:gray">(Nov'23)</span> <a href="https://arxiv.org/pdf/2308.05869.pdf" target="_blank"> Our work</a> is accepted to PPoPP'24. The title of the work is "Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips".
+* <span style="color:gray">(Sep'23) Our work is accepted to 2024 SME Annual Conference & Expo. The title of the work is "Enhancing Safety Using Energy-Efficient Machine Learning Algorithms Through Prediction of Rock Type and Cutter Wear". This work is done through collaboration with Mining Engineering at Mines.
 * <span style="color:gray">(May'23)</span> <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank"> Our work</a> is accepted to FRAME'23. The title of the work is "Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems".
 * <span style="color:gray">(Feb'23)</span> I've accepted to <a href="https://research.google/outreach/explore-csr/" target="_blank"> Google ExploreCSR program </a> as a mentor. I've been mentored two great students, Jason Lee and Cesar Lopez Hernandez. 
 * <span style="color:gray">(Nov'22)</span> I've won the third place in <a href="https://src.acm.org/winners/2023" target="_blank">MICRO'22 SRC</a>. The title of the work is "HaX-CoNN: Heterogeneity-aware Execution of Concurrent Deep Neural Networks".
