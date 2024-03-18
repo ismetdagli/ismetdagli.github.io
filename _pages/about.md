@@ -16,7 +16,7 @@ Please refer to my <a href="https://ismetdagli.github.io/files/CV_IsmetDagli.pdf
 
 Selected News
 =====
-* <span style="color:gray">(Feb'24)</span> I've won the third place in <a href="https://conf.researchr.org/track/cgo-2024/cgo-2024-student-research-competition" target="_blank">CGO'24 SRC</a>. The title of the work is "H-EYE: Holistic Performance Modeling for Diversely Scaled Systems".
+* <span style="color:gray">(Mar'24)</span> I've won the third place in <a href="https://conf.researchr.org/track/cgo-2024/cgo-2024-student-research-competition" target="_blank">CGO'24 SRC</a>. The title of the work is "H-EYE: Holistic Performance Modeling for Diversely Scaled Systems".
 * <span style="color:gray">(Feb'24)</span> <a href="https://www.date-conference.com/programme#ASD05P" target="_blank"> Our work</a> is accepted to DATE'24. The title of the work is "Constraint-aware resource management for cyber-physical systems".
 * <span style="color:gray">(Nov'23)</span> <a href="https://arxiv.org/pdf/2308.05869.pdf" target="_blank"> Our work</a> is accepted to PPoPP'24. The title of the work is "Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips".
 * <span style="color:gray">(Sep'23) Our work is accepted to 2024 SME Annual Conference & Expo. The title of the work is "Enhancing Safety Using Energy-Efficient Machine Learning Algorithms Through Prediction of Rock Type and Cutter Wear". This work is done through collaboration with Mining Engineering at Mines.
@@ -32,7 +32,8 @@ Selected News
 Publications
 =====
 <!-- **Heterogeneous accelerators** -->
-* Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Constraint-aware resource management for cyber-physical systems*. in Design, Automation and Test in Europe Conference(DATE). <a href="https://www.date-conference.com/programme#ASD05P" target="_blank">[Paper Link]</a>
+* **Ismet Dagli**, Mehmet E. Belviranli, *Title: Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips*, Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP'24. <a href="https://dl.acm.org/doi/10.1145/3627535.3638502" target="_blank">[Paper Link]</a>
+* Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Constraint-aware resource management for cyber-physical systems*. in Design, Automation and Test in Europe Conference (DATE), 2024. <a href="https://www.date-conference.com/programme#ASD05P" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Andrew Depke, Andrew Mueller, Sahil Hassan, Ali Akoglu, Mehmet Belviranli. *Title: Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems*. in 3rd workshop on Flexible Resource and Application Management on the Edge (FRAME), collaborated with HPDC . <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Alexander Cieslewicz, Jedidiah McClurg, Mehmet E. Belviranli, *Title: AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs*, 59th ACM/IEEE Design Automation Conference(DAC), 2022. <a href="https://ismetdagli.github.io/files/dac22.pdf" target="_blank">[Paper Link]</a>
 * Justin McGowen, **Ismet Dagli**, Mehmet Belviranli, Neil Dantam; *Title: Representations for Scheduling of Heterogeneous Computation to Support Motion Planning”; Implicit Representations for Robotic Manipulation RSS 2022 Workshop <a href="https://ismetdagli.github.io/files/rss22.pdf" target="_blank">[Paper Link]</a>
