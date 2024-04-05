@@ -17,6 +17,7 @@ Please refer to my <a href="https://ismetdagli.github.io/files/CV_IsmetDagli.pdf
 Selected News
 =====
 * <span style="color:gray">(Apr'24)</span> Our work is accepted to <strong>ICS'24</strong>. The paper proposes a novel scheduling technique for cyber-physical systems with heterogeneous processing units under real-world constraints.
+* <span style="color:gray">(Mar'24)</span> Our work is accepted to HCW'24, colocated with IPDPS'24. The title of the work is "A Runtime Manager Integrated Emulation Environment for Heterogeneous SoC Design with RISC-V Cores"
 * <span style="color:gray">(Mar'24)</span> I have selected as finalist and won the third place in <a href="https://conf.researchr.org/track/cgo-2024/cgo-2024-student-research-competition" target="_blank">CGO'24 SRC</a>. The title of the work is "H-EYE: Holistic Performance Modeling for Diversely Scaled Systems".
 * <span style="color:gray">(Feb'24)</span> <a href="https://www.date-conference.com/programme#ASD05P" target="_blank"> Our work</a> is accepted to <strong>DATE'24</strong>. The title of the work is "Constraint-aware resource management for cyber-physical systems".
 * <span style="color:gray">(Nov'23)</span> <a href="https://arxiv.org/pdf/2308.05869.pdf" target="_blank"> Our work</a> is accepted to <strong>PPoPP'24</strong>. The title of the work is "Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips".
@@ -33,6 +34,8 @@ Selected News
 Publications
 =====
 <!-- **Heterogeneous accelerators** -->
+* Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Scheduling for Cyber-Physical Systems with Heterogeneous Processing Units under Real-World Constraints*. in  38th ACM International Conference on Supercomputing (ICS), 2024
+* H. Umut Suluhan, Serhan Gener, Alexander Fusco, Joshua Mack, Ismet Dagli, Mehmet E. Belviranli, Cagatay Edemen, Ali Akoglu. *Title: A Runtime Manager Integrated Emulation Environment for Heterogeneous SoC Design with RISC-V Cores*, in Heterogeneity in Computing Workshop (HCW), collocated with IPDPS, 2024
 * **Ismet Dagli**, Mehmet E. Belviranli, *Title: Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips*, Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP'24. <a href="https://dl.acm.org/doi/10.1145/3627535.3638502" target="_blank">[Paper Link]</a>
 * Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Constraint-aware resource management for cyber-physical systems*. in Design, Automation and Test in Europe Conference (DATE), 2024. <a href="https://www.date-conference.com/programme#ASD05P" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Andrew Depke, Andrew Mueller, Sahil Hassan, Ali Akoglu, Mehmet Belviranli. *Title: Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems*. in 3rd workshop on Flexible Resource and Application Management on the Edge (FRAME), collaborated with HPDC . <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank">[Paper Link]</a>
