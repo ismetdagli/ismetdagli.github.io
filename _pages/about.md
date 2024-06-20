@@ -16,6 +16,8 @@ Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" t
 
 Selected News
 =====
+
+* <span style="color:gray">(May'24)</span> Selected as MLCommons <a href="https://mlcommons.org/about-us/programs/" target="_blank"> ML and Systems Rising Stars'24 </a>. 
 * <span style="color:gray">(Apr'24)</span> <a href="https://ismetdagli.github.io/files/ics24.pdf" target="_blank"> Our work </a> is accepted to <strong>ICS'24</strong>. The paper proposes a novel scheduling technique for cyber-physical systems with heterogeneous processing units under real-world constraints.
 * <span style="color:gray">(Apr'24)</span> Our work is accepted to ARMA'24. The paper analyzes cutting forces of mining machines through several ML algorithms in terms of execution time, energy consumption, and accuracy. This work is done with collaborators from Mining Engineering at Mines.
 * <span style="color:gray">(Mar'24)</span> Our work is accepted to HCW'24, colocated with IPDPS'24. The title of the work is "A Runtime Manager Integrated Emulation Environment for Heterogeneous SoC Design with RISC-V Cores"
