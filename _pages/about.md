@@ -16,7 +16,7 @@ Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" t
 
 Selected News
 =====
-
+* <span style="color:gray">(Sep'24)</span> Our abstract is <a href="https://www.colorado.edu/conference/cwwmca/" target="_blank">  is accepted at CWIDCA (a workshop colocated with MICRO'24). </a>. 
 * <span style="color:gray">(May'24)</span> Selected as<a href="https://mlcommons.org/about-us/programs/" target="_blank">  MLCommons ML and Systems Rising Star</a>. 
 * <span style="color:gray">(Apr'24)</span> <a href="https://ismetdagli.github.io/files/ics24.pdf" target="_blank"> Our work </a> is accepted to <strong>ICS'24</strong>. The paper proposes a novel scheduling technique for cyber-physical systems with heterogeneous processing units under real-world constraints.
 * <span style="color:gray">(Apr'24)</span> Our work is accepted to ARMA'24. The paper analyzes cutting forces of mining machines through several ML algorithms in terms of execution time, energy consumption, and accuracy. This work is done with collaborators from Mining Engineering at Mines.
@@ -24,7 +24,7 @@ Selected News
 * <span style="color:gray">(Mar'24)</span> I have selected as finalist and won the third place in <a href="https://conf.researchr.org/track/cgo-2024/cgo-2024-student-research-competition" target="_blank">CGO'24 SRC</a>. The title of the work is "H-EYE: Holistic Performance Modeling for Diversely Scaled Systems".
 * <span style="color:gray">(Feb'24)</span> <a href="https://www.date-conference.com/programme#ASD05P" target="_blank"> Our work</a> is accepted to <strong>DATE'24</strong>. The title of the work is "Constraint-aware resource management for cyber-physical systems".
 * <span style="color:gray">(Nov'23)</span> <a href="https://arxiv.org/pdf/2308.05869.pdf" target="_blank"> Our work</a> is accepted to <strong>PPoPP'24</strong>. The title of the work is "Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips".
-* <span style="color:gray">(Sep'23) Our work is accepted to 2024 SME Annual Conference Expo. The title of the work is Enhancing Safety Using Energy-Efficient Machine Learning Algorithms Through Prediction of Rock Type and Cutter Wear. This work is done with collaborators from Mining Engineering at Mines.
+* <span style="color:gray">(Sep'23)</span> Our work is accepted to 2024 SME Annual Conference Expo. The title of the work is Enhancing Safety Using Energy-Efficient Machine Learning Algorithms Through Prediction of Rock Type and Cutter Wear. This work is done with collaborators from Mining Engineering at Mines.
 * <span style="color:gray">(May'23)</span> <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank"> Our work</a> is accepted to FRAME'23, colocated with HPDC'23. The title of the work is "Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems".
 * <span style="color:gray">(Feb'23)</span> I've accepted to <a href="https://research.google/outreach/explore-csr/" target="_blank"> Google ExploreCSR program </a> as a mentor. I've been mentored two great students, Jason Lee and Cesar Lopez Hernandez. 
 * <span style="color:gray">(Nov'22)</span> I've won the third place in <a href="https://src.acm.org/winners/2023" target="_blank">MICRO'22 SRC</a>. The title of the work is "HaX-CoNN: Heterogeneity-aware Execution of Concurrent Deep Neural Networks".
@@ -34,18 +34,13 @@ Selected News
 
 
 
-Publications
+Selected publications
 =====
 <!-- **Heterogeneous accelerators** -->
 * Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Scheduling for Cyber-Physical Systems with Heterogeneous Processing Units under Real-World Constraints*. in  38th ACM International Conference on Supercomputing (ICS), 2024
-* Amid Morshedlou, **Ismet Dagli**, Jamal Rostami, Omid Moradian, Mehmet Belviranli  “Enhancing Reliability and Safety in Rock Excavation Using A Machine Learning Approach Through Wear Condition Identification” 58th US Rock Mechanics/Geomechanics Symposium, ARMA 2024
-* H. Umut Suluhan, Serhan Gener, Alexander Fusco, Joshua Mack, **Ismet Dagli**, Mehmet E. Belviranli, Cagatay Edemen, Ali Akoglu. *Title: A Runtime Manager Integrated Emulation Environment for Heterogeneous SoC Design with RISC-V Cores*, in Heterogeneity in Computing Workshop (HCW), collocated with IPDPS, 2024
 * **Ismet Dagli**, Mehmet E. Belviranli, *Title: Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips*, Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP'24. <a href="https://dl.acm.org/doi/10.1145/3627535.3638502" target="_blank">[Paper Link]</a>
 * Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Constraint-aware resource management for cyber-physical systems*. in Design, Automation and Test in Europe Conference (DATE), 2024. <a href="https://www.date-conference.com/programme#ASD05P" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Andrew Depke, Andrew Mueller, Sahil Hassan, Ali Akoglu, Mehmet Belviranli. *Title: Contention-aware Performance Modeling for Heterogeneous Edge and Cloud Systems*. in 3rd workshop on Flexible Resource and Application Management on the Edge (FRAME), collaborated with HPDC . <a href="https://ismetdagli.github.io/files/frame23.pdf" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Alexander Cieslewicz, Jedidiah McClurg, Mehmet E. Belviranli, *Title: AxoNN: Energy-Aware Execution of Neural Network Inference on Multi-Accelerator Heterogeneous SoCs*, 59th ACM/IEEE Design Automation Conference(DAC), 2022. <a href="https://ismetdagli.github.io/files/dac22.pdf" target="_blank">[Paper Link]</a>
-* Justin McGowen, **Ismet Dagli**, Mehmet Belviranli, Neil Dantam; *Title: Representations for Scheduling of Heterogeneous Computation to Support Motion Planning”; Implicit Representations for Robotic Manipulation RSS 2022 Workshop <a href="https://ismetdagli.github.io/files/rss22.pdf" target="_blank">[Paper Link]</a>
-* Antonino Tumeo, Marco Minutoli, Vito Giovanni Castellana, Limaye Ankur, Tan Cheng, **Ismet Dagli**, Nicolas Bohm Agostini, Serena Curzel, Amatya Vinay, Manzano Joseph; *Title: Accelerating Data Processing at the Edge with Extreme Specialization*; 2022 ASCR Workshop on the Management and Storage of Scientific Data, 2022 <a href="https://ismetdagli.github.io/files/ascr21.pdf" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Mehmet E. Belviranli, *Title: Exploration of Multi-Accelerator Neural Network Inference in Diversely Heterogeneous Embedded Systems*; 2021 IEEE/ACM Redefining Scalability for Diversely Heterogeneous Architectures Workshop (RSDHA) collaborated with SC, 2021 <a href="https://ismetdagli.github.io/files/rsdha21.pdf" target="_blank">[Paper Link]</a>
-* Serena Curzel, Nicolas Bohm Agostini, Shihao Song, **Ismet Dagli**, Ankur Limaye, Cheng Tan, Marco Minutoli, Vito Giovanni Castellana, Vinay Amatya, Joseph Manzano, Anup Das, Fabrizio Ferrandi, Antonino Tumeo; *Title: Automated generation of integrated digital and spiking neuromorphic machine learning accelerators* 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021<a href="https://ismetdagli.github.io/files/iccad21.pdf" target="_blank">[Paper Link]</a>
 
