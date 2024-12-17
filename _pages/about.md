@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ismet Dagli"
+title: "About Me"
 excerpt: "Ismet Dagli's personal website"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ My broader research interests span high performance and energy efficient heterog
 
 Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" target="_blank">CV</a> for more details about my education and experiences. Please feel free to reach out to me via ismetdagli@mines.edu
 
-**I'm on the academic job market and any research-oriented positions in industry.**
+**I'm on the academic job market and/or research-oriented positions in industry.**
 
 Selected News
 =====
