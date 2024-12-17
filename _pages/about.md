@@ -10,12 +10,15 @@ redirect_from:
 
 I am a computer science PhD candidate at [Colorado School of Mines](https://cs.mines.edu/) advised by [Prof. Mehmet Belviranlı](https://mehmet.belviranli.com/). Before joining Mines, I completed my BS in Computer Engineering at [Boğaziçi University](https://www.cmpe.boun.edu.tr/) and received guidanced from [Prof. Levent Akın](https://www.cmpe.boun.edu.tr/~akin/)
 
-My research focuses on the field of diversely heterogeneous accelerators. Particularly, I've worked on increasing performance, energy efficiency, and utilization of heterogeneous systems for autonomous vehicles and drones. Throughout my research, I have quite worked on edge SoCs (NVIDIA Jetson Family, Qualcomm Development Kits, Raspberry PIs). I've also been working other system architecture related research topics, such as analytical modeling to predict the performance of heterogeneous systems, memory contention to minimize the performance degredation. 
+My broader research interests span high performance and energy efficient heterogeneous execution, machine learning acceleration, autonomous computing, edge&cloud systems and systems security. Particularly, I've worked on increasing performance, energy efficiency, and utilization of heterogeneous edge systems for autonomous vehicles and drones. Throughout my research, I have quite worked on edge SoCs (NVIDIA Jetson Family, Qualcomm Development Kits, Raspberry PIs). I've also been working other system architecture related research topics, such as analytical and empirical performance modeling, resource contention (i.e., shared memory) to minimize the performance degredation and side&covert channel attacks over shared resources in system. 
 
-Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" target="_blank">CV</a> for more details about my education and experiences.
+Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" target="_blank">CV</a> for more details about my education and experiences. Please feel free to reach out to me via ismetdagli@mines.edu
+
+**I'm on the academic job market and any research-oriented positions in industry.**
 
 Selected News
 =====
+* <span style="color:gray">(Nov'25)</span> <a href="https://arxiv.org/abs/2412.05228" target="_blank"> Our work </a> is accepted to <strong>DATE'25</strong>. The paper unveils a novel memory-contention based covert communication attack which targets the shared system memory in mobile SoCs.
 * <span style="color:gray">(Sep'24)</span> Our abstract is accepted at <a href="https://www.colorado.edu/conference/cwwmca/" target="_blank"> CWIDCA </a> (a workshop colocated with MICRO'24). 
 * <span style="color:gray">(May'24)</span> Selected as<a href="https://mlcommons.org/about-us/programs/" target="_blank">  MLCommons ML and Systems Rising Star</a>. 
 * <span style="color:gray">(Apr'24)</span> <a href="https://ismetdagli.github.io/files/ics24.pdf" target="_blank"> Our work </a> is accepted to <strong>ICS'24</strong>. The paper proposes a novel scheduling technique for cyber-physical systems with heterogeneous processing units under real-world constraints.
@@ -36,7 +39,7 @@ Selected News
 
 Selected publications
 =====
-<!-- **Heterogeneous accelerators** -->
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=x5wYzjkAAAAJ&hl=en) for full list of publications.
 * Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Scheduling for Cyber-Physical Systems with Heterogeneous Processing Units under Real-World Constraints*. in  38th ACM International Conference on Supercomputing (ICS), 2024
 * **Ismet Dagli**, Mehmet E. Belviranli, *Title: Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips*, Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP'24. <a href="https://dl.acm.org/doi/10.1145/3627535.3638502" target="_blank">[Paper Link]</a>
 * Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Constraint-aware resource management for cyber-physical systems*. in Design, Automation and Test in Europe Conference (DATE), 2024. <a href="https://www.date-conference.com/programme#ASD05P" target="_blank">[Paper Link]</a>

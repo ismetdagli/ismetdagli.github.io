@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ismet Dagli"
   avatar           : "DagliIsmet_portrait.jpg"
-  bio              : "ismetdagli@mines.edu"
-  location         : "Golden, CO"
+  bio              : "Email: ismetdagli@mines.edu"
+  location         : "1500 Illinois St., Golden, CO 80401"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=x5wYzjkAAAAJ&hl=en"
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "ismet-dagli-a51585127/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1460-6906"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
