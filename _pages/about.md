@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Ismet Dagli"
 excerpt: "Ismet Dagli's personal website"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" t
 
 Selected News
 =====
-* <span style="color:gray">(Nov'25)</span> <a href="https://arxiv.org/abs/2412.05228" target="_blank"> Our work </a> is accepted to <strong>DATE'25</strong>. The paper unveils a novel memory-contention based covert communication attack which targets the shared system memory in mobile SoCs.
+* <span style="color:gray">(Nov'24)</span> <a href="https://arxiv.org/abs/2412.05228" target="_blank"> Our work </a> is accepted to <strong>DATE'25</strong>. The paper unveils a novel memory-contention based covert communication attack which targets the shared system memory in mobile SoCs.
 * <span style="color:gray">(Sep'24)</span> Our abstract is accepted at <a href="https://www.colorado.edu/conference/cwwmca/" target="_blank"> CWIDCA </a> (a workshop colocated with MICRO'24). 
 * <span style="color:gray">(May'24)</span> Selected as<a href="https://mlcommons.org/about-us/programs/" target="_blank">  MLCommons ML and Systems Rising Star</a>. 
 * <span style="color:gray">(Apr'24)</span> <a href="https://ismetdagli.github.io/files/ics24.pdf" target="_blank"> Our work </a> is accepted to <strong>ICS'24</strong>. The paper proposes a novel scheduling technique for cyber-physical systems with heterogeneous processing units under real-world constraints.
