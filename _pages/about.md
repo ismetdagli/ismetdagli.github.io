@@ -18,6 +18,7 @@ Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" t
 
 Selected News
 =====
+* <span style="color:gray">(Nov'24)</span> Our work is accepted to <strong>ICS'25</strong>. The paper present a holistic resource management framework that employs a novel graph-based hardware representation to enable flexible and scalable abstractions of edge/cloud systems. 
 * <span style="color:gray">(Jan'25)</span> My doctoral research has been accepted to the <strong>PhD Forum at DATE'25</strong>.
 * <span style="color:gray">(Dec'24)</span> Our work on efficient edge computing for DNN workloads is accepted to be presented at <strong>NVIDIA GTC'25</strong>.
 * <span style="color:gray">(Nov'24)</span> <a href="https://arxiv.org/abs/2412.05228" target="_blank"> Our work </a> is accepted to <strong>DATE'25</strong>. The paper unveils a novel memory-contention based covert communication attack which targets the shared system memory in mobile SoCs.
