@@ -18,8 +18,8 @@ Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" t
 
 Selected News
 =====
-* <span style="color:gray">(Nov'24)</span> Our work is accepted to <strong>ICS'25</strong>. The paper present a holistic resource management framework that employs a novel graph-based hardware representation to enable flexible and scalable abstractions of edge/cloud systems. 
-* <span style="color:gray">(Jan'25)</span> My doctoral research has been accepted to the <strong>PhD Forum at DATE'25</strong>.
+* <span style="color:gray">(Apr'25)</span> <a href="https://ismetdagli.github.io/files/ics25.pdf" target="_blank"> Our work</a> is accepted to <strong>ICS'25</strong>. The paper presents a holistic resource management framework employing a novel graph-based hardware representation to enable flexible and scalable abstractions of edge/cloud systems. 
+* <span style="color:gray">(Jan'25)</span> My doctoral research has been accepted to be presented at <strong>PhD Forum at DATE'25</strong>.
 * <span style="color:gray">(Dec'24)</span> Our work on efficient edge computing for DNN workloads is accepted to be presented at <strong>NVIDIA GTC'25</strong>.
 * <span style="color:gray">(Nov'24)</span> <a href="https://arxiv.org/abs/2412.05228" target="_blank"> Our work </a> is accepted to <strong>DATE'25</strong>. The paper unveils a novel memory-contention based covert communication attack which targets the shared system memory in mobile SoCs.
 * <span style="color:gray">(Sep'24)</span> Our abstract is accepted at <a href="https://www.colorado.edu/conference/cwwmca/" target="_blank"> CWIDCA </a> (a workshop colocated with MICRO'24). 
@@ -43,6 +43,7 @@ Selected News
 Selected publications
 =====
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=x5wYzjkAAAAJ&hl=en) for full list of publications.
+* **Ismet Dagli**, Justin Davis, Mehmet Belviranli. *Title: HARNESS: Holistic Resource Management for Diversely Scaled Edge Cloud Systems*. in  39th ACM International Conference on Supercomputing (ICS), 2025 <a href="https://ismetdagli.github.io/files/ics25.pdf" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, James Crea, Soner Seckiner, Yuanchao Xu, Selçuk Köse, Mehmet E. Belviranli. *Title: Constraint-aware resource management for cyber-physical systems*. in Design, Automation and Test in Europe Conference (DATE), 2025. <a href="https://arxiv.org/abs/2412.05228" target="_blank">[Paper Link]</a>
 * Justin Mcgowen, **Ismet Dagli**, Neil Dantam, Mehmet Belviranli. *Title: Scheduling for Cyber-Physical Systems with Heterogeneous Processing Units under Real-World Constraints*. in  38th ACM International Conference on Supercomputing (ICS), 2024 <a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656625" target="_blank">[Paper Link]</a>
 * **Ismet Dagli**, Mehmet E. Belviranli, *Title: Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips*, Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP) 2024. <a href="https://dl.acm.org/doi/10.1145/3627535.3638502" target="_blank">[Paper Link]</a>
