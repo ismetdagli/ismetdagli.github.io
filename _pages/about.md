@@ -12,18 +12,17 @@ Currently, I am working at Microsoft as Sr. SWE on HPC-AI team. I am working on 
 
 In past, I received my PhD in CS at [Colorado School of Mines](https://cs.mines.edu/) advised by [Prof. Mehmet Belviranlı](https://mehmet.belviranli.com/). Before joining Mines, I completed my BS in Computer Engineering at [Boğaziçi University](https://www.cmpe.boun.edu.tr/) and received guidanced from [Prof. Levent Akın](https://www.cmpe.boun.edu.tr/~akin/)
 
-My broader research interests span high performance and energy efficient heterogeneous execution, machine learning acceleration, autonomous computing, edge&cloud systems and systems security. Particularly, I've worked on increasing performance, energy efficiency, and utilization of heterogeneous edge systems for autonomous vehicles and drones. Throughout my research, I have quite worked on edge SoCs (NVIDIA Jetson Family, Qualcomm Development Kits, Raspberry PIs). I've also been working other system architecture related research topics, such as analytical and empirical performance modeling, resource contention (i.e., shared memory) to minimize the performance degredation and side&covert channel attacks over shared resources in system. 
+My broader research interests span high performance and energy efficient heterogeneous execution, machine learning acceleration, autonomous computing, edge&cloud systems and systems security. Particularly, I've worked on increasing performance, energy efficiency, and utilization of heterogeneous edge systems for autonomous vehicles and drones. Throughout my research, I have quite worked on edge SoCs (NVIDIA Jetson Family, Qualcomm Development Kits, Raspberry PIs). I've also been working other system architecture related research topics, such as analytical and empirical performance modeling, resource contention (i.e., shared memory) to minimize the performance degredation and side&covert channel attacks over shared resources in system. Refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" target="_blank">CV</a> for more details about my education and experiences. 
 
-Please refer to my <a href="https://ismetdagli.github.io/files/IsmetDagli.pdf" target="_blank">CV</a> for more details about my education and experiences. Please feel free to reach out to me via ismet.dagli27@gmail.com or ismetdagli@mines.edu
+Please feel free to reach out to me via ismet.dagli27@gmail.com or ismetdagli@mines.edu
 
-**I'm on the academic job market and/or research-oriented positions in industry.**
 
 Selected News
 =====
 
 
-* <span style="color:gray">(Jan'25)</span> I started working at <a href="https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/" target="_blank"> one of the largest HPC infrastucture in the world </a>. I am responsible for deploying, monitoring, profiling, and debugging state-of-the-art LLM applications on hyperscale cloud infrastructure powered by NVIDIA GPUs.
-* <span style="color:gray">(Aug'25)</span> I've completed my PhD after 5 years at Colorado School of Mines. You can find <a href="https://ismetdagli.github.io/files/Dissertation_ismetdagli.pdf" target="_blank"> my dissertation in the link </a>. 
+* <span style="color:gray">(Oct'25)</span> I started working at <a href="https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/" target="_blank"> one of the largest HPC infrastucture in the world</a>. I am responsible for deploying, monitoring, profiling, and debugging state-of-the-art LLM applications on hyperscale cloud infrastructure powered by NVIDIA GPUs.
+* <span style="color:gray">(Aug'25)</span> I've completed my PhD in CS at Colorado School of Mines. You can find <a href="https://ismetdagli.github.io/files/Dissertation_ismetdagli.pdf" target="_blank"> my dissertation here</a>. 
 * <span style="color:gray">(Apr'25)</span> <a href="https://ismetdagli.github.io/files/ics25.pdf" target="_blank"> Our work</a> is accepted to <strong>ICS'25</strong>. The paper presents a holistic resource management framework employing a novel graph-based hardware representation to enable flexible and scalable abstractions of edge/cloud systems. 
 * <span style="color:gray">(Jan'25)</span> My doctoral research has been accepted to be presented at <strong>PhD Forum at DATE'25</strong>.
 * <span style="color:gray">(Dec'24)</span> Our work on efficient edge computing for DNN workloads is accepted to be presented at <strong>NVIDIA GTC'25</strong>.
